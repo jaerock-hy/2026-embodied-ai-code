@@ -24,3 +24,6 @@ ENV/
 .coverage
 .coverage.*
 htmlcov/
+
+# .gz files (MNIST data)
+*.gz
